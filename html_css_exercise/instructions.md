@@ -104,6 +104,38 @@ http://www.flickr.com/photos/39707801@N00/10214643804
 For the logo the photographer is "The Tedster" and the link is
 http://www.flickr.com/photos/14648291@N04/8353617707/
 
+
+# Detailed instructions
+
+##Iteration 1
+
+Part A.
+
+1. Copy the cloned repository to a new folder of your choosing.
+
+Part B.
+
+2. Examine the CSS template.css file. 
+3. Look for CSS rules that control color
+4. Look for color definitions
+
+Part C.
+
+5. Copy template.html to your own HTML file.
+6. Copy template.css to your own CSS file.
+7. Fix the link tag in the HTML file to point to the renamed CSS file.
+
+Part D.
+
+8. Choose a new color palette using kuler
+9. Substitute the new colors in your CSS file.
+
+Part E.
+
+10. Save your files one more time
+11. Volunteer to show your files to the class.
+
+
 <hr />
 Copyright © 2013 Alan Zimmerman <br />
 Used by permission by Portland Code School
