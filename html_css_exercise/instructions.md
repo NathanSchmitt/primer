@@ -135,6 +135,29 @@ Part E.
 10. Save your files one more time
 11. Volunteer to show your files to the class.
 
+##Iteration 2
+
+Part A. HTML
+
+1. Create a div after the header and before the footer that contains all the articles. Assign it a class="main". 
+
+2. Create a div *inside* the "main" div that contains all the articles. Assign it a class="articles".
+
+3. Create a div *inside* the "main" div but *before* the "articles" div. Assign it a class="nav".
+
+4. Put a non-breaking space in the "nav" div. (&nbsp;)
+
+Part B. CSS
+
+5. Make the "nav" div 30% wide. 
+6. Make the "articles" div 70% wide.
+7. Change the "article_heading" div to be 80%  
+
+8. Save your files one more time
+9. Volunteer to show your files to the class.
+
+
+
 
 <hr />
 Copyright © 2013 Alan Zimmerman <br />
