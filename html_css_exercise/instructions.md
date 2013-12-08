@@ -163,7 +163,16 @@ While you are playing with your new divs, keep this in mind:
 
 * As you add margin and padding, be aware of how that changes the width of your side-by-side div containers. If your widths add up to more than 100% because you added a border or margin, reduce the width of the "nav" div to make them side-by-side again.
 
+##Iteration 3
 
+In this iteration, we do the header.
+
+1. Change the H1 entry to match the design brief/wireframes. Style the H1 (and only the H1 inside the header div) to fit with the site color pallette.
+2. Create the site tag line using your choice of tags and styling
+3. Put in an image tag (img) for the logo, float it right. Look at the badges to understand how to do this.
+4. Remove the badges
+5. Move the contact link to the footer
+0. Make sure the header div behaves well when you squish and stretch your browser. (What does this mean? We'll discuss.)
 
 <hr />
 Copyright © 2013 Alan Zimmerman <br />
