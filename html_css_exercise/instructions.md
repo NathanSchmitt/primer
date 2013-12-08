@@ -137,25 +137,30 @@ Part E.
 
 ##Iteration 2
 
+In this iteration, we add a nav panel, use "floats" to put the nav panel and the content panel side by side, and start transitioning towards a flexible, responisve layout.
+
 Part A. HTML
 
-1. Create a div after the header and before the footer that contains all the articles. Assign it a class="main". 
+1. Create a div after the "header" and before the "footer" that contains all the articles. Assign it a class="main". 
 
 2. Create a div *inside* the "main" div that contains all the articles. Assign it a class="articles".
 
 3. Create a div *inside* the "main" div but *before* the "articles" div. Assign it a class="nav".
 
-4. Put a non-breaking space in the "nav" div. (&nbsp;)
+4. Put a non-breaking space in the "nav" div (\&nbsp;) OR as set of one-sentence paragraphs OR an unordered list (ul) of one-sentence list items (li). This will be come our site menu.
 
 Part B. CSS
 
-5. Make the "nav" div 30% wide. 
-6. Make the "articles" div 70% wide.
-7. Change the "article_heading" div to be 80%  
+7. Change the "article_heading" div to be 80% so that it flexes inside the new containing divs
+0. Add a "clear:both" rule to both the header and footer so the floats don't apply to them.
+5. Make the "nav" div 30% wide and float it to the left using the appropriate CSS rules (look them up: "width", "min-width", "max-width" and "float").
+6. Make the "articles" div 70% wide float it to the left also, so that it snugs up against the "nav" div.
 
-8. Save your files one more time
-9. Volunteer to show your files to the class.
 
+While you are playing with your new divs, keep this in mind:
+
+*. you can set the background color to your divs as you work so they are easier to see
+*. As you add margin and padding, be aware of how that changes the width of your side-by-side div containers. If your widths add up to more than 100% because you added a border or margin, reduce the width of the "nav" div to make them side-by-side again.
 
 
 
