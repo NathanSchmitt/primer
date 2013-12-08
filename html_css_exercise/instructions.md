@@ -163,7 +163,21 @@ While you are playing with your new divs, keep this in mind:
 
 * As you add margin and padding, be aware of how that changes the width of your side-by-side div containers. If your widths add up to more than 100% because you added a border or margin, reduce the width of the "nav" div to make them side-by-side again.
 
+##Iteration 3
 
+In this iteration, we do the header.
+
+1. Change the H1 entry to match the design brief/wireframes. Style the H1 (and only the H1 inside the header div) to fit with the site color pallette. [See SEO note, below.]
+2. Create the site tag line using your choice of tags and styling
+3. Put in an image tag (img) for the logo, float it right. Look at the badges to understand how to do this.
+4. Remove the badges
+5. Move the contact link to the footer
+0. Change the page title (in the "title" container in the "head" of the page) to match the H1 contents.
+0. Make sure the header div behaves well when you squish and stretch your browser. (What does this mean? We'll discuss.)
+
+### SEO note
+
+Google and other robot spiders expect one and only one H1 on each page that "tells the story" for that page. They pay special attention to contents, and thus the meaning of the page. Give that, using an H1 for the company name makes sense on this page. However, does it make sense on any other page of the site? Probably not. In which case, how would you change the header so that it looks the same but doesn't use an H1 container? What would the H1 on the main page be?
 
 <hr />
 Copyright © 2013 Alan Zimmerman <br />
