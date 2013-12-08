@@ -159,8 +159,9 @@ Part B. CSS
 
 While you are playing with your new divs, keep this in mind:
 
-*. you can set the background color to your divs as you work so they are easier to see
-*. As you add margin and padding, be aware of how that changes the width of your side-by-side div containers. If your widths add up to more than 100% because you added a border or margin, reduce the width of the "nav" div to make them side-by-side again.
+* You can set the background color to your divs as you work so they are easier to see
+
+* As you add margin and padding, be aware of how that changes the width of your side-by-side div containers. If your widths add up to more than 100% because you added a border or margin, reduce the width of the "nav" div to make them side-by-side again.
 
 
 
