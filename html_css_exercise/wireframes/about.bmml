@@ -53,9 +53,9 @@
       </controlProperties>
     </control>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::Webcam" x="162" y="511" w="127" h="122" measuredW="177" measuredH="146" zOrder="9" locked="false" isInGroup="-1"/>
-    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="497" y="815" w="-1" h="-1" measuredW="171" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="497" y="815" w="-1" h="-1" measuredW="186" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Copyright%20%A9%202013%20Telling%20Touch</text>
+        <text>Copyright%20%A9%202014%20Telling%20Touch</text>
       </controlProperties>
     </control>
     <control controlID="14" controlTypeID="com.balsamiq.mockups::List" x="153" y="379" w="121" h="98" measuredW="100" measuredH="126" zOrder="11" locked="false" isInGroup="-1">
